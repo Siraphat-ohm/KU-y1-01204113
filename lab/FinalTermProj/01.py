@@ -226,7 +226,7 @@ def runStarBUGcafe_main():
 
 coffee_menu_filename = "./testcase/CoffeeMenu01.txt"
 coffee_menu_CSV = readMenu(coffee_menu_filename)
-addon_menu_filename = "./testcase/CoffeeMenuAddOn02.txt"
+addon_menu_filename = "./testcase/CoffeeMenuAddOn01.txt"
 add_on_menu_CSV = readMenu(addon_menu_filename)
 
 # menu = csv2list(coffee_menu_CSV)
