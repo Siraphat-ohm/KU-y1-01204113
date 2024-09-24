@@ -231,7 +231,7 @@ def play(player1="Computer", player2="Player", d=None, RENDER=False):
     print("++++++++++++++++++++++++++++++++++++++++++++++++++")
 
 
-## main begins here
+# main begins here
 def testcase01():
     random.seed(2)
     play()
